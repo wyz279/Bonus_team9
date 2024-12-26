@@ -10,6 +10,7 @@ body{
   font-size: 15px;
   border: 1px solid black;
   border-radius: 10px;
+  color: black;
 }
 .member1 b{
   font-size: 20px;
@@ -22,6 +23,7 @@ body{
   font-size: 15px;
   border: 1px solid black;
   border-radius: 10px;
+  color: black;
 }
 .member2 b{
   font-size: 20px;
@@ -34,6 +36,7 @@ body{
   font-size: 15px;
   border: 1px solid black;
   border-radius: 10px;
+  color: black;
 }
 .member3 b{
   font-size: 20px;
@@ -46,6 +49,7 @@ body{
   font-size: 15px;
   border: 1px solid black;
   border-radius: 10px;
+  color: black;
 }
 .member4 b{
   font-size: 20px;
@@ -58,6 +62,7 @@ body{
   font-size: 20px;
   border: 1px solid black;
   border-radius: 10px;
+  color: black;
 }
 .top-part{
   display: flex;
